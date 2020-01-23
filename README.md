@@ -1,3 +1,3 @@
-Um simples to-do list em javascript.
+A simple javascript to-do list.
 
-Nesse script é abordado a manipulação do DOM e o uso do localStorage.
+In this script, DOM manipulation and the use of localStorage are covered.
